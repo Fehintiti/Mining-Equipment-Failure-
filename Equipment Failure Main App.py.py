@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
-
 
 import streamlit as st
 import pandas as pd

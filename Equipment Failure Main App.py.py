@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 
 import streamlit as st
 import pandas as pd
@@ -105,7 +102,7 @@ if st.checkbox("Show Feature Importance"):
     plot_feature_importance(model, list(processed_input.columns))
 
 
-# In[ ]:
+
 
 
 
